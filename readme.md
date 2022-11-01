@@ -1,4 +1,4 @@
-##Script for detecting events (train horn) in audio signal
+## Script for detecting events (train horn) in audio signal
 Run *detect_audio_events.py*:  
 * Parameters:
   * --input-audio (required, str) - path to the input audio file
