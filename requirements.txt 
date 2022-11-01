@@ -1,0 +1,6 @@
+librosa
+numpy==1.21.4
+scikit-learn
+scipy
+pandas
+matplotlib
